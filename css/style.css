@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2{
+    text-align: center;
+    color: aquamarine;
+}
+.content{
+    background-color: rgb(28, 49, 58);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;   
+    padding: 15px;
+    color: #eee;
+    box-shadow: 5px 5px #000;
+    border-radius: 10px;
+}
